@@ -1,0 +1,25 @@
+img {
+    width: 750px;
+    height: 205px;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+header {
+    background-color: rgb(54, 54, 54);
+}
+
+
+.nav-link {
+    color: gray;
+    font-size: 25px;
+}
+
+footer {
+    background-color: black;
+}
+.test {
+    border: 5px solid red;
+}

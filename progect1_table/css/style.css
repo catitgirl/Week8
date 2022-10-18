@@ -1,0 +1,63 @@
+.container {
+  font-size: 2em;
+  color: #fff;
+}
+
+.row {
+  height: 400px;
+  text-align: center;
+
+}
+
+.main {
+  background-color: darkblue;
+  height: 400px;
+}
+
+.text {
+  height: 400px;
+  line-height: 400px;
+}
+
+.text-1 {
+  height: 80px;
+  line-height: 80px;
+}
+
+.text-2 {
+  height: 100px;
+  line-height: 100px;
+}
+
+.text-3 {
+  height: 170px;
+  line-height: 170px;
+}
+
+.aside-1 {
+
+  background-color: darkblue;
+  height: 100px;
+  width: 320px;
+  margin-left: 10px;
+}
+
+.aside-2 {
+  background-color: darkblue;
+  height: 290px;
+  width: 320px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.description {
+  background-color: darkblue;
+  margin-top: 10px;
+}
+
+.relative {
+  background-color: darkblue;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
